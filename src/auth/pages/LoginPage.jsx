@@ -19,7 +19,7 @@ import {
 } from "../../store/auth/thunks";
 
 const formData = {
-  email: "Santiago@google.com",
+  email: "usuarioinvitado@google.com",
   password: "123456",
 };
 

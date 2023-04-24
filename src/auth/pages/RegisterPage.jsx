@@ -15,9 +15,9 @@ import { startCreatingUserWithEmailPassword } from "../../store/auth/thunks";
 import { useMemo } from "react";
 
 const formData = {
-  email: "Santiago@google.com",
-  password: "123456",
-  displayName: "Santiago tovar",
+  email: "",
+  password: "",
+  displayName: "",
 };
 
 const formValidations = {
